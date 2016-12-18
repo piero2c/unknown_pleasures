@@ -1,5 +1,5 @@
 # unknown_pleasures
- Unknown Pleasures cover generator 
+ Unknown Pleasures cover generator made with Processing.
 
 ----------------
 
